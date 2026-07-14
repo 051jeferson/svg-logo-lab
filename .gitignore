@@ -24,3 +24,6 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# Local agent / editor guidance (not part of the published app)
+CLAUDE.md
